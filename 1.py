@@ -12,3 +12,10 @@ pi=3.14
 print("Diametri 12 ga teng bo\'lgan doiraning yuzi", 12*pi)
 #Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini toping (Pifagor teoremasidan foydalaning)
 print('Katetlari 6 va 7 bo\'lgan to\'g\'ri burchakli uchburchakning gipotenuzasi', 6**2+7**2)
+
+aholi_soni = 7_594_000_000 # o'zmizga qulay bo'lishi uchun shinday yozdik
+print("Yer kurrasida", aholi_soni, " ga yaqin odam yashaydi")
+ism = 'Jobir'
+yosh = 36
+xabar = ism + ' ' + str(yosh) + ' yoshda'
+print(xabar)
